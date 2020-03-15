@@ -11,9 +11,9 @@
 我感兴趣的：
 
 - [GameShell](https://www.bilibili.com/video/av62745935)：一款搭载全志CPU的类GameBoy Linux开发平台🎮
-- [银翼杀手2049](https://www.bilibili.com/video/av65534879)：一部探讨人生的意义的现代赛博朋克电影🎥
+- [仙境之桥](https://i.loli.net/2020/03/15/1uogQs8xbjq6kWe.jpg)：我最喜欢的电影，讲的是一个天使的故事👼
+- [银翼杀手2049](https://i.loli.net/2020/03/15/k8delfza6SLI7yQ.jpg)：一部探讨人生的意义的现代赛博朋克电影🎥
 - [奇异人生](https://www.bilibili.com/video/av12161908)：一部以时间为主题的，充满乡村音乐风格的互动式游戏📹
-- [仙境之桥](https://i.loli.net/2020/03/15/IzcJ1Dh5KxmgkpR.png)：我最喜欢的电影，讲的是一个天使的故事👼
 - [Minecraft](https://space.bilibili.com/11787292/favlist?fid=139833692)：一个具有既丰富又深刻的玩法的伟大游戏，我是一位Mod开发者⛏
 - [The Last  Night](https://www.bilibili.com/video/av15628237)：一款令人夜不能寐的像素化现代赛博朋克2D游戏🖼
 

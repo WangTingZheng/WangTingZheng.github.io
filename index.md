@@ -2,22 +2,22 @@
 
 在这些平台我会非常活跃：
 
-- [Github](https://github.com/WangTingZheng)：全球最大的开发者合作平台，我将在里更新我的项目👩‍💻
-- [知乎](https://www.zhihu.com/people/wang-ting-zheng-45)：中国最大的问答社区，我在这里收集我感兴趣的文章，写一些技术文档🐱‍🏍
-- [BiliBili](https://space.bilibili.com/11787292)：中国的YouTube，我每天都逛科技区🎈
-- [机核](https://www.gcores.com/users/184587)：游戏衍生文化的小众爱好者平台，我在这里了解GameShell、赛博朋克🎰
-- [网易云音乐](https://music.163.com/#/user/home?id=83551783)：音乐平台，我在这里听银翼杀手、奇异人生的专辑🎧
-- [酷安](https://i.loli.net/2020/03/18/BwFnCGPNfQkKTty.png)：一个数码安卓讨论平台，我在这里讨论一些安卓应用的话题📱
+- [Github](https://github.com/WangTingZheng)：全球最大的开发者合作平台，我将在里更新我的项目
+- [知乎](https://www.zhihu.com/people/wang-ting-zheng-45)：中国最大的问答社区，我在这里收集我感兴趣的文章，写一些技术文档
+- [BiliBili](https://space.bilibili.com/11787292)：中国的YouTube，我每天都逛科技区
+- [机核](https://www.gcores.com/users/184587)：游戏衍生文化的小众爱好者平台，我在这里了解GameShell、赛博朋克
+- [网易云音乐](https://music.163.com/#/user/home?id=83551783)：音乐平台，我在这里听银翼杀手、奇异人生的专辑
+- [酷安](https://i.loli.net/2020/03/18/BwFnCGPNfQkKTty.png)：一个数码安卓讨论平台，我在这里讨论一些安卓应用的话题
 
 我感兴趣的：
 
-- [GameShell](https://www.bilibili.com/video/av62745935)：一款搭载全志CPU的类GameBoy Linux开发平台🎮
-- [仙境之桥](https://i.loli.net/2020/03/15/6qh5c7pU3CXrFi9.jpg)：我最喜欢的电影，讲的是一个天使的故事👼
-- [银翼杀手2049](https://i.loli.net/2020/03/15/dZzXRsSligwFvrQ.jpg)：一部探讨人生的意义的现代赛博朋克电影🎥
-- [奇异人生](https://www.bilibili.com/video/av12161908)：一部以时间为主题的，充满乡村音乐风格的互动式游戏📹
+- [GameShell](https://www.bilibili.com/video/av62745935)：一款搭载全志CPU的类GameBoy Linux开发平台
+- [仙境之桥](https://i.loli.net/2020/03/15/6qh5c7pU3CXrFi9.jpg)：我最喜欢的电影，讲的是一个天使的故事
+- [银翼杀手2049](https://i.loli.net/2020/03/15/dZzXRsSligwFvrQ.jpg)：一部探讨人生的意义的现代赛博朋克电影
+- [奇异人生](https://www.bilibili.com/video/av12161908)：一部以时间为主题的，充满乡村音乐风格的互动式游戏
 - [Minecraft](https://space.bilibili.com/11787292/favlist?fid=139833692)：一个具有既丰富又深刻的玩法的伟大游戏，我是一位Mod开发者⛏
-- [The Last  Night](https://www.bilibili.com/video/av15628237)：一款令人夜不能寐的像素化现代赛博朋克2D游戏🖼
-- [伊藤润二恐怖漫画](https://www.acgndog.com/23928.html)：令人沉迷的短篇恐怖漫画🧛‍♂️
+- [The Last  Night](https://www.bilibili.com/video/av15628237)：一款令人夜不能寐的像素化现代赛博朋克2D游戏
+- [伊藤润二恐怖漫画](https://www.acgndog.com/23928.html)：令人沉迷的短篇恐怖漫画
 
 此外，你也可以通过我收藏的文章、视频、音乐了解我：
 

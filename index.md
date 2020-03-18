@@ -3,9 +3,9 @@
 在这些平台我会非常活跃：
 
 - [Github](https://github.com/WangTingZheng)：全球最大的开发者合作平台，我将在里更新我的项目👩‍💻
-- [知乎](https://www.zhihu.com/people/wang-ting-zheng-45)：中国最大的问答社区，我主要在这里收集我感兴趣的文章，写一些技术文档🐱‍🏍
+- [知乎](https://www.zhihu.com/people/wang-ting-zheng-45)：中国最大的问答社区，我在这里收集我感兴趣的文章，写一些技术文档🐱‍🏍
 - [BiliBili](https://space.bilibili.com/11787292)：中国的YouTube，我每天都逛科技区🎈
-- [机核](https://www.gcores.com/users/184587)：游戏衍生文化的小众爱好者平台，我在这里了解GameShell、赛博朋克、银翼杀手有关的内容🎰
+- [机核](https://www.gcores.com/users/184587)：游戏衍生文化的小众爱好者平台，我在这里了解GameShell、赛博朋克🎰
 - [网易云音乐](https://music.163.com/#/user/home?id=83551783)：音乐平台，PC版的UI我很喜欢，我在这里听银翼杀手、奇异人生的BGM🎧
 - [酷安](https://i.loli.net/2020/03/18/BwFnCGPNfQkKTty.png)：一个数码安卓讨论平台，我在这里讨论一些安卓应用的话题📱
 

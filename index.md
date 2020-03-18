@@ -18,6 +18,7 @@
 - [Minecraft](https://space.bilibili.com/11787292/favlist?fid=139833692)：一个具有既丰富又深刻的玩法的伟大游戏，我是一位Mod开发者⛏
 - [The Last  Night](https://www.bilibili.com/video/av15628237)：一款令人夜不能寐的像素化现代赛博朋克2D游戏
 - [伊藤润二恐怖漫画](https://www.acgndog.com/23928.html)：令人沉迷的短篇恐怖漫画
+- [阿丽塔：战斗天使](https://www.bilibili.com/video/av81451552)：这可能不是一部成功的漫改电影，但是阿丽塔足以令人印象深刻
 
 此外，你也可以通过我收藏的文章、视频、音乐了解我：
 
@@ -34,7 +35,7 @@
 - [Typora](https://typora.io)：著名所见即所得markdown文本编辑器，拥有大量美观的主题
 - [Sublime Text](https://sublimetext.com)：美观的文本编辑器，适合编写配置文件
 - [Windows Terminal](https://github.com/Microsoft/Terminal)：微软开源的强大的、高度自定义的命令行工具
-- PotPlayer：美观、解码能力强、功能丰富的视频播放软件
+- [PotPlayer](https://sspai.com/post/56687)：美观、解码能力强、功能丰富的视频播放软件
 - [balenaEtcher](https://www.balena.io/etcher)：美观、实用的镜像烧录工具，就是有点臃肿
 - [ScreenToGif](https://www.screentogif.com)：C#编写的Gif制作工具，输出的Gif很清晰
 
@@ -61,7 +62,9 @@
 - [Undertale](https://undertale.com/)：传说之下，快来看看音乐人做的游戏吧！
 - [Inside](https://playdead.com/games/inside/)：开发过地狱边境的playdead的又一力作，反乌托邦冒险解密游戏
 - [Besiege](http://www.besiege.spiderlinggames.co.uk/)：围攻，机械沙盒游戏，我只能玩玩创意工坊的内容...
+
 我最近关注的项目：
+
 - [Random Things](https://github.com/lumien231/Random-Things)：随意作品，给我的世界加入独立的多个方块，我只在研究它的源码
 - [DragonProxy](https://github.com/DragonetMC/DragonProxy)：一个能让我的世界基岩版、Java版联机的插件，我才刚了解到
 - [WorldPainter](https://github.com/Captain-Chaos/WorldPainter)：老牌Minecraft地图编辑器，未来想研究地图生成可能用得上

@@ -8,6 +8,7 @@
 - [机核](https://www.gcores.com/users/184587)：游戏衍生文化的小众爱好者平台，我在这里了解GameShell、赛博朋克
 - [网易云音乐](https://music.163.com/#/user/home?id=83551783)：音乐平台，我在这里听银翼杀手、奇异人生的专辑
 - [酷安](https://i.loli.net/2020/03/18/BwFnCGPNfQkKTty.png)：一个数码安卓讨论平台，我在这里讨论一些安卓应用的话题
+- [Steam](https://steamcommunity.com/profiles/76561198281125473/)：全球最大的游戏分销市场，我在这里购买游戏
 
 我感兴趣的：
 
@@ -15,7 +16,7 @@
 - [仙境之桥](https://i.loli.net/2020/03/15/6qh5c7pU3CXrFi9.jpg)：我最喜欢的电影，讲的是一个天使的故事
 - [银翼杀手2049](https://i.loli.net/2020/03/15/dZzXRsSligwFvrQ.jpg)：一部探讨人生的意义的现代赛博朋克电影
 - [奇异人生](https://www.bilibili.com/video/av12161908)：一部以时间为主题的，充满乡村音乐风格的互动式游戏
-- [Minecraft](https://space.bilibili.com/11787292/favlist?fid=139833692)：一个具有既丰富又深刻的玩法的伟大游戏，我是一位Mod开发者⛏
+- [Minecraft](https://space.bilibili.com/11787292/favlist?fid=139833692)：一个具有既丰富又深刻的玩法的伟大游戏，我是一位Mod开发者
 - [The Last  Night](https://www.bilibili.com/video/av15628237)：一款令人夜不能寐的像素化现代赛博朋克2D游戏
 - [伊藤润二恐怖漫画](https://www.acgndog.com/23928.html)：令人沉迷的短篇恐怖漫画
 - [阿丽塔：战斗天使](https://www.bilibili.com/video/av81451552)：这可能不是一部成功的漫改电影，但是阿丽塔足以令人印象深刻
@@ -42,7 +43,7 @@
 我常用的安卓APP：
 
 - [Termux](https://termux.com)：强大的移动端Linux命令行工具
-- [Aid Learning](http://www.aidlearning.net)：又一个强大的命令行工具，有点是可以在电脑上访问
+- [Aid Learning](http://www.aidlearning.net)：又一个强大的命令行工具，优点是可以在电脑上访问
 - [SSRR](https://github.com/shadowsocksrr/shadowsocks-rss/)：SSR客户端，科学上网必备
 - [JuiceSSH](https://juicessh.com)：漂亮的SSH工具，可惜不再更新了，支持插件
 - [动画壁纸](https://www.coolapk.com/apk/com.srm.blurscalewallpaper)：模仿ios的返回主界面动画，支持自己调节参数

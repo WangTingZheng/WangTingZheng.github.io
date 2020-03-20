@@ -64,6 +64,7 @@
 - [Inside](https://playdead.com/games/inside/)：开发过地狱边境的playdead的又一力作，反乌托邦冒险解密游戏
 - [Besiege](http://www.besiege.spiderlinggames.co.uk/)：围攻，机械沙盒游戏，我只能玩玩创意工坊的内容...
 - [Fez](http://www.fezgame.com/)：令人惊叹的3D空间解密游戏，每转换一次就会有意想不到的结果
+- [Mindustry](https://github.com/Anuken/Mindustry)：开源的塔防游戏，迷你版的异星工厂，以流水线为主要玩法
 
 
 我最近关注的项目：

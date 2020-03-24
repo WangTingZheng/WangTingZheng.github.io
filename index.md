@@ -17,7 +17,7 @@
 - [银翼杀手2049](https://i.loli.net/2020/03/15/dZzXRsSligwFvrQ.jpg)：一部探讨人生的意义的现代赛博朋克电影
 - [奇异人生](https://www.bilibili.com/video/av12161908)：一部以时间为主题的，充满乡村音乐风格的互动式游戏
 - [Minecraft](https://space.bilibili.com/11787292/favlist?fid=139833692)：一个具有既丰富又深刻的玩法的伟大游戏，我是一位Mod开发者
-- [The Last  Night](https://www.bilibili.com/video/av15628237)：一款令人夜不能寐的像素化现代赛博朋克2D游戏
+- [The Last Night](https://www.bilibili.com/video/av15628237)：一款令人夜不能寐的像素化现代赛博朋克2D游戏
 - [伊藤润二恐怖漫画](https://www.acgndog.com/23928.html)：令人沉迷的短篇恐怖漫画
 - [阿丽塔：战斗天使](https://www.bilibili.com/video/av81451552)：这可能不是一部成功的漫改电影，但是阿丽塔足以令人印象深刻
 
@@ -69,8 +69,9 @@
 
 我最近关注的项目：
 
-- [Random Things](https://github.com/lumien231/Random-Things)：随意作品，给我的世界加入独立的多个方块，我只在研究它的源码
+- [Random Things](https://github.com/lumien231/Random-Things)：随意作品，给我的世界加入独立的多个方块，我正在研究它的源码
 - [DragonProxy](https://github.com/DragonetMC/DragonProxy)：一个能让我的世界基岩版、Java版联机的插件，我才刚了解到
 - [WorldPainter](https://github.com/Captain-Chaos/WorldPainter)：老牌Minecraft地图编辑器，未来想研究地图生成可能用得上
+- [Oscilloscope music](https://www.jerobeamfenderson.net/)：示波器音乐，一种利用李莉图制作音乐视频的技术
 
 当然，解密才刚刚开始......

@@ -57,7 +57,7 @@
 
 - [生存战争](https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft2&hl=en)：类似我的世界的游戏，偏向生存，比较真实，电路方面做得比我的世界好
 - [画中世界](https://play.google.com/store/apps/details?id=unity.Annapurna.Gorogoa&hl=en)：小而美的独立游戏，精妙的拼图解密让我一与它相遇就被深深震撼了
-- [Tallowmere](https://www.tallowmere.com)：烛火地牢，rouglike游戏，像素风加上血腥的画面，武士刀很厉害
+- [Tallowmere](https://www.tallowmere.com)：烛火地牢，roguelike游戏，像素风加上血腥的画面，武士刀很厉害
 - [铁锈战争](http://corrodinggames.com/rusted_warfare)：RTS游戏，像素风格，支持联机对战，一玩就停不下来
 - [Florence](https://play.google.com/store/apps/details?id=com.mountains.feathertop&hl=en)：佛罗伦萨，画风比较美的恋爱游戏，可是我玩下来并没有什么感觉...
 - [Undertale](https://undertale.com/)：传说之下，快来看看音乐人做的游戏吧！

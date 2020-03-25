@@ -72,6 +72,6 @@
 - [Random Things](https://github.com/lumien231/Random-Things)：随意作品，给我的世界加入独立的多个方块，我正在研究它的源码
 - [DragonProxy](https://github.com/DragonetMC/DragonProxy)：一个能让我的世界基岩版、Java版联机的插件，我才刚了解到
 - [WorldPainter](https://github.com/Captain-Chaos/WorldPainter)：老牌Minecraft地图编辑器，未来想研究地图生成可能用得上
-- [Oscilloscope music](https://www.jerobeamfenderson.net/)：示波器音乐，一种利用李莉图制作音乐视频的技术
+- [Oscilloscope music](https://www.jerobeamfenderson.net/)：示波器音乐，李萨如图制作音乐视频的技术
 
 当然，解密才刚刚开始......

@@ -39,6 +39,7 @@
 - [PotPlayer](https://sspai.com/post/56687)：美观、解码能力强、功能丰富的视频播放软件
 - [balenaEtcher](https://www.balena.io/etcher)：美观、实用的镜像烧录工具，就是有点臃肿
 - [ScreenToGif](https://www.screentogif.com)：C#编写的Gif制作工具，输出的Gif很清晰
+- [MinecraftDev](https://github.com/minecraft-dev/MinecraftDev)：一个IntelliJ IDEA插件，可以新建各种Minecraft Mod项目
 
 我常用的安卓APP：
 

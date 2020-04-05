@@ -1,4 +1,6 @@
 com.wangtingzheng.smms
+com.wangtingzheng.smms.actions
 com.wangtingzheng.smms.api
+com.wangtingzheng.smms.authorization
 com.wangtingzheng.smms.conf
 com.wangtingzheng.smms.utils

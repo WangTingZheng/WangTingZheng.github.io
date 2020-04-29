@@ -75,4 +75,6 @@
 - [WorldPainter](https://github.com/Captain-Chaos/WorldPainter)：老牌Minecraft地图编辑器，未来想研究地图生成可能用得上
 - [Oscilloscope music](https://www.jerobeamfenderson.net/)：示波器音乐，李萨如图制作音乐视频的技术
 
+[你可以在这里浏览我所做的小项目](project.html)
+
 当然，解密才刚刚开始......

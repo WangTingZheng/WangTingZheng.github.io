@@ -1,5 +1,6 @@
 com.wangtingzheng.cryptographystuct
 com.wangtingzheng.cryptographystuct.algorithm
 com.wangtingzheng.cryptographystuct.error
-com.wangtingzheng.cryptographystuct.example
+com.wangtingzheng.cryptographystuct.example.error
+com.wangtingzheng.cryptographystuct.example.matrix
 com.wangtingzheng.cryptographystuct.matrix
